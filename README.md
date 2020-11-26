@@ -1,3 +1,5 @@
+**Archived as offical repo has updated thier deps**
+
 # Optimizely React SDK
 
 This repository houses the React SDK for use with Optimizely Full Stack and Optimizely Rollouts.
